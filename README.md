@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **UIKit, SwiftUI, Swift, App Development**
 
-- 📫 How to reach me **zohairAli309@gmail.com**
+- 📫 How to reach me **zohaira414@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
